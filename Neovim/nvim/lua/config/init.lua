@@ -1,0 +1,16 @@
+-- carrega as configuraçãoes dos plugins
+require('config.nightfox')
+require('config.lualine')
+require('config.nvim-tree')
+require('config.mini-indentscope')
+require('config.mini-pairs')
+require('config.mini-surround')
+require('config.bufferline')
+require('config.dressing')
+require('config.leap')
+require('config.flit')
+require('config.neoconf')
+require('config.lsp')
+require('config.treesitter')
+require('config.telescope')
+
